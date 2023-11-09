@@ -62,7 +62,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>devops-integration</finalName>
+        <finalName>ramzirebai-5ds7-g7-springkaddem</finalName>
     </build>
 
 </project>
